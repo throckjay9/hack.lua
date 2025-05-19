@@ -1,7 +1,7 @@
 -- script.lua
 -- Roblox LocalScript for malicious script detection testing optimized for detecting heads with aimbot, improved GUI overlay with toggle shortcut
 -- Features: ESP box, ESP line, aimbot locking on head, hologram, shoot on look/aim, auto kill
--- GUI can be toggled with Right Control key
+-- GUI can be toggled with H key
 -- Must be run as LocalScript in Roblox environment
 
 -- Services
